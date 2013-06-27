@@ -18,6 +18,6 @@ local.properties
 .gitattributes
 
 # Eclipse project files
-.classpath
-.project
+#.classpath
+#.project
 .settings
